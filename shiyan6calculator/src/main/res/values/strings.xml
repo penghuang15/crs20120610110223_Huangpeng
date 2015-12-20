@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <dimen name="buttonWidth">72dp</dimen>
+    <dimen name="buttonHeight">80dp</dimen>
+</resources>

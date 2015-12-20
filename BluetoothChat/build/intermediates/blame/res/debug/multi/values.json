@@ -1,0 +1,1562 @@
+[
+    {
+        "outputFile": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 41,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 41,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 66,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 66,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 46,
+                    "endOffset": 248
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 46,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 253,
+                    "endColumn": 47,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1084,
+                        "endColumn": 47,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 40,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 40,
+                        "endOffset": 949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 46,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 954,
+                        "endColumn": 46,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 35,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 35,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 44,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 44,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 47,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 47,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endColumn": 55,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 55,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 46,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1001,
+                        "endColumn": 46,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endColumn": 39,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1132,
+                        "endColumn": 39,
+                        "endOffset": 1167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 46,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 518,
+                        "endColumn": 46,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 52,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 52,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 35,
+                    "endOffset": 792
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 35,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 797,
+                    "endColumn": 52,
+                    "endOffset": 845
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 52,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 850,
+                    "endColumn": 52,
+                    "endOffset": 898
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 52,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 903,
+                    "endColumn": 51,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 51,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 62,
+                    "endOffset": 1013
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 776,
+                        "endColumn": 62,
+                        "endOffset": 834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1018,
+                    "endColumn": 64,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 64,
+                        "endOffset": 771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endLine": 26,
+                    "endColumn": 9,
+                    "endOffset": 1307
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1574,
+                        "endLine": 40,
+                        "endColumn": 9,
+                        "endOffset": 1801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1312,
+                    "endLine": 32,
+                    "endColumn": 9,
+                    "endOffset": 1697
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1181,
+                        "endLine": 36,
+                        "endColumn": 9,
+                        "endOffset": 1571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1702,
+                    "endLine": 36,
+                    "endColumn": 9,
+                    "endOffset": 1910
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 2249,
+                        "endLine": 52,
+                        "endColumn": 9,
+                        "endOffset": 2460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1915,
+                    "endLine": 40,
+                    "endColumn": 9,
+                    "endOffset": 2130
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 1804,
+                        "endLine": 44,
+                        "endColumn": 9,
+                        "endOffset": 2022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2135,
+                    "endLine": 44,
+                    "endColumn": 9,
+                    "endOffset": 2353
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 2025,
+                        "endLine": 48,
+                        "endColumn": 9,
+                        "endOffset": 2246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2358,
+                    "endLine": 47,
+                    "endColumn": 9,
+                    "endOffset": 2527
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2469,
+                        "endLine": 56,
+                        "endColumn": 9,
+                        "endOffset": 2640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2532,
+                    "endLine": 50,
+                    "endColumn": 9,
+                    "endOffset": 2691
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 2648,
+                        "endLine": 60,
+                        "endColumn": 9,
+                        "endOffset": 2809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2696,
+                    "endLine": 55,
+                    "endColumn": 9,
+                    "endOffset": 3006
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 1,
+                        "startOffset": 2816,
+                        "endLine": 66,
+                        "endColumn": 9,
+                        "endOffset": 3130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3011,
+                    "endColumn": 57,
+                    "endOffset": 3064
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endColumn": 58,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3069,
+                    "endLine": 59,
+                    "endColumn": 9,
+                    "endOffset": 3191
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 1,
+                        "startOffset": 3136,
+                        "endLine": 70,
+                        "endColumn": 9,
+                        "endOffset": 3260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3196,
+                    "endLine": 68,
+                    "endColumn": 13,
+                    "endOffset": 3762
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 5095,
+                        "endLine": 111,
+                        "endColumn": 13,
+                        "endOffset": 5670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3767,
+                    "endLine": 78,
+                    "endColumn": 12,
+                    "endOffset": 4330
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 1,
+                        "startOffset": 3266,
+                        "endLine": 81,
+                        "endColumn": 12,
+                        "endOffset": 3838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4335,
+                    "endLine": 87,
+                    "endColumn": 13,
+                    "endOffset": 4937
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3850,
+                        "endLine": 91,
+                        "endColumn": 13,
+                        "endOffset": 4461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4942,
+                    "endLine": 96,
+                    "endColumn": 13,
+                    "endOffset": 5540
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 5,
+                        "startOffset": 4475,
+                        "endLine": 101,
+                        "endColumn": 13,
+                        "endOffset": 5082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5545,
+                    "endLine": 99,
+                    "endColumn": 9,
+                    "endOffset": 5709
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 5683,
+                        "endLine": 115,
+                        "endColumn": 9,
+                        "endOffset": 5849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5714,
+                    "endLine": 109,
+                    "endColumn": 9,
+                    "endOffset": 6168
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 410,
+                        "endLine": 21,
+                        "endColumn": 9,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 6173,
+                    "endLine": 115,
+                    "endColumn": 9,
+                    "endOffset": 6418
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endLine": 9,
+                        "endColumn": 9,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 6423,
+                    "endLine": 120,
+                    "endColumn": 9,
+                    "endOffset": 6617
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 881,
+                        "endLine": 27,
+                        "endColumn": 9,
+                        "endOffset": 1079
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 41,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 41,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 66,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 66,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 46,
+                    "endOffset": 248
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 46,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 253,
+                    "endColumn": 47,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1084,
+                        "endColumn": 47,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 40,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 40,
+                        "endOffset": 949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 46,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 954,
+                        "endColumn": 46,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 35,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 35,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 44,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 44,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 47,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 47,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endColumn": 55,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 55,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 46,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1001,
+                        "endColumn": 46,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endColumn": 39,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1132,
+                        "endColumn": 39,
+                        "endOffset": 1167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 46,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 518,
+                        "endColumn": 46,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 52,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 52,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 35,
+                    "endOffset": 792
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 35,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 797,
+                    "endColumn": 52,
+                    "endOffset": 845
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 52,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 850,
+                    "endColumn": 52,
+                    "endOffset": 898
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 52,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 903,
+                    "endColumn": 51,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 51,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 62,
+                    "endOffset": 1013
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 776,
+                        "endColumn": 62,
+                        "endOffset": 834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1018,
+                    "endColumn": 64,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 64,
+                        "endOffset": 771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endLine": 26,
+                    "endColumn": 9,
+                    "endOffset": 1307
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1574,
+                        "endLine": 40,
+                        "endColumn": 9,
+                        "endOffset": 1801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1312,
+                    "endLine": 32,
+                    "endColumn": 9,
+                    "endOffset": 1697
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1181,
+                        "endLine": 36,
+                        "endColumn": 9,
+                        "endOffset": 1571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1702,
+                    "endLine": 36,
+                    "endColumn": 9,
+                    "endOffset": 1910
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 2249,
+                        "endLine": 52,
+                        "endColumn": 9,
+                        "endOffset": 2460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1915,
+                    "endLine": 40,
+                    "endColumn": 9,
+                    "endOffset": 2130
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 1804,
+                        "endLine": 44,
+                        "endColumn": 9,
+                        "endOffset": 2022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2135,
+                    "endLine": 44,
+                    "endColumn": 9,
+                    "endOffset": 2353
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 2025,
+                        "endLine": 48,
+                        "endColumn": 9,
+                        "endOffset": 2246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2358,
+                    "endLine": 47,
+                    "endColumn": 9,
+                    "endOffset": 2527
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2469,
+                        "endLine": 56,
+                        "endColumn": 9,
+                        "endOffset": 2640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2532,
+                    "endLine": 50,
+                    "endColumn": 9,
+                    "endOffset": 2691
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 2648,
+                        "endLine": 60,
+                        "endColumn": 9,
+                        "endOffset": 2809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2696,
+                    "endLine": 55,
+                    "endColumn": 9,
+                    "endOffset": 3006
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 1,
+                        "startOffset": 2816,
+                        "endLine": 66,
+                        "endColumn": 9,
+                        "endOffset": 3130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3011,
+                    "endColumn": 57,
+                    "endOffset": 3064
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endColumn": 58,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3069,
+                    "endLine": 59,
+                    "endColumn": 9,
+                    "endOffset": 3191
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 1,
+                        "startOffset": 3136,
+                        "endLine": 70,
+                        "endColumn": 9,
+                        "endOffset": 3260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3196,
+                    "endLine": 68,
+                    "endColumn": 13,
+                    "endOffset": 3762
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 5095,
+                        "endLine": 111,
+                        "endColumn": 13,
+                        "endOffset": 5670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3767,
+                    "endLine": 78,
+                    "endColumn": 12,
+                    "endOffset": 4330
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 1,
+                        "startOffset": 3266,
+                        "endLine": 81,
+                        "endColumn": 12,
+                        "endOffset": 3838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4335,
+                    "endLine": 87,
+                    "endColumn": 13,
+                    "endOffset": 4937
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3850,
+                        "endLine": 91,
+                        "endColumn": 13,
+                        "endOffset": 4461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4942,
+                    "endLine": 96,
+                    "endColumn": 13,
+                    "endOffset": 5540
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 5,
+                        "startOffset": 4475,
+                        "endLine": 101,
+                        "endColumn": 13,
+                        "endOffset": 5082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5545,
+                    "endLine": 99,
+                    "endColumn": 9,
+                    "endOffset": 5709
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 5683,
+                        "endLine": 115,
+                        "endColumn": 9,
+                        "endOffset": 5849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5714,
+                    "endLine": 109,
+                    "endColumn": 9,
+                    "endOffset": 6168
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 410,
+                        "endLine": 21,
+                        "endColumn": 9,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 6173,
+                    "endLine": 115,
+                    "endColumn": 9,
+                    "endOffset": 6418
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endLine": 9,
+                        "endColumn": 9,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 6423,
+                    "endLine": 120,
+                    "endColumn": 9,
+                    "endOffset": 6617
+                },
+                "from": {
+                    "file": "E:\\BluetoothChat\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 881,
+                        "endLine": 27,
+                        "endColumn": 9,
+                        "endOffset": 1079
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BluetoothChat/BluetoothChat.iml" filepath="$PROJECT_DIR$/BluetoothChat/BluetoothChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crs20120610110223_Huangpeng.iml" filepath="$PROJECT_DIR$/crs20120610110223_Huangpeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyan2wenbenCalculator/shiyan2wenbenCalculator.iml" filepath="$PROJECT_DIR$/shiyan2wenbenCalculator/shiyan2wenbenCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyan3/shiyan3.iml" filepath="$PROJECT_DIR$/shiyan3/shiyan3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyan4yemiantiaozhuan/shiyan4yemiantiaozhuan.iml" filepath="$PROJECT_DIR$/shiyan4yemiantiaozhuan/shiyan4yemiantiaozhuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyan5/shiyan5.iml" filepath="$PROJECT_DIR$/shiyan5/shiyan5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyan6calculator/shiyan6calculator.iml" filepath="$PROJECT_DIR$/shiyan6calculator/shiyan6calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyan7/shiyan7.iml" filepath="$PROJECT_DIR$/shiyan7/shiyan7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyan8mingdanguanli/shiyan8mingdanguanli.iml" filepath="$PROJECT_DIR$/shiyan8mingdanguanli/shiyan8mingdanguanli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyan9/shiyan9.iml" filepath="$PROJECT_DIR$/shiyan9/shiyan9.iml" />
+    </modules>
+  </component>
+</project>

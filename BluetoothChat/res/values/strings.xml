@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">安卓聊天</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">发送</string>
+    <string name="not_connected">亲，请先和朋友建立连接哦！</string>
+    <string name="bt_not_enabled_leaving">蓝牙未打开,请按Menu键打开</string>
+    <string name="title_connecting">正在连接...</string>
+    <string name="title_connected_to">已连接: </string>
+    <string name="title_not_connected">未连接</string>
+    <string name="backtomain">返回</string>
+    <!--  DeviceListActivity -->
+    <string name="scanning">搜索蓝牙设备...</string>
+    <string name="select_device">选择一个设备进行连接</string>
+    <string name="none_paired">没有已配对设备</string>
+    <string name="none_found">未发现设备</string>
+    <string name="title_paired_devices">-——-已配对设备列表-——-</string>
+    <string name="title_other_devices">-——-其他设备列表-——-</string>
+    <string name="button_scan">搜索周边朋友</string>
+
+    <!-- Options Menu -->
+    <string name="connect">我的朋友</string>
+    <string name="discoverable">设置可见性</string>
+    <string name="openbluetooth">打开蓝牙</string>
+    <string name="exit">退出</string>
+    <string name="closebluetooth">关闭蓝牙</string>
+    <string name="record">聊天记录</string>
+</resources>

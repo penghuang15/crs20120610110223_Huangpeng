@@ -1,0 +1,1 @@
+include ':app', ':shiyan2wenbenCalculator', ':shiyan3', ':shiyan4yemiantiaozhuan', ':shiyan5', ':shiyan6calculator', ':shiyan7', ':shiyan8mingdanguanli', ':shiyan9', ':BluetoothChat', ':actionbarsherlockLibrary', ':appQQ'

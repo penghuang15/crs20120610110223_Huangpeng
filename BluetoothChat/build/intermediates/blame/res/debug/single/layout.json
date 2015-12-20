@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_right.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\layout\\chatting_item_msg_text_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_left.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\layout\\chatting_item_msg_text_left.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\information.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\layout\\information.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\record_list.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\record_list.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\information.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\information.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\record_list.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\crs20120610110223huangpeng\\BluetoothChat\\res\\layout\\record_list.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_right.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\chatting_item_msg_text_right.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\chatting_item_msg_text_left.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\chatting_item_msg_text_left.xml"
+    },
+    {
+        "merged": "E:\\BluetoothChat\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "E:\\BluetoothChat\\res\\layout\\message.xml"
+    }
+]

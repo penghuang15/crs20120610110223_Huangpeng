@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?><!--  
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222"
+    >
+    <TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:gravity="center"
+    android:background="#999999"
+    android:textColor="#ffffff"
+    android:textSize="15pt"
+    android:text="欢迎使用安卓聊天"
+    />
+    <ListView android:id="@+id/in"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll"
+        android:layout_weight="1"
+    />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000"
+        >
+        <EditText android:id="@+id/edit_text_out"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="bottom"
+        />
+        <Button android:id="@+id/button_send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/send"
+        />
+    </LinearLayout>
+</LinearLayout>-->
+
+
+
+
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="#222" >
+    
+    <RelativeLayout 
+        android:id="@+id/rl_layout"
+  			android:layout_width="fill_parent"
+  			android:layout_height="45dp"
+  			android:background="@drawable/title_bar_9"
+  			android:gravity="center_vertical"  > 
+  			<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:gravity="center"
+    android:background="#999999"
+    android:textColor="#ffffff"
+    android:textSize="15pt"
+    android:text="欢迎使用安卓聊天"
+    />
+		</RelativeLayout>
+    
+	  
+   <RelativeLayout
+        android:id="@+id/rl_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+         >
+        
+        <Button
+        android:id="@+id/button_send"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_centerVertical="true"
+        android:text="发送"
+                
+        
+         />
+         
+        
+        <EditText
+        android:id="@+id/edit_text_out"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_toLeftOf="@id/button_send"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        
+        android:layout_centerVertical="true"
+        android:singleLine="true"
+        android:textSize="18sp"/>
+         
+    </RelativeLayout>
+    
+        
+    <ListView
+    android:id="@+id/in"
+    android:layout_below="@id/rl_layout"
+    android:layout_above="@id/rl_bottom"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"    
+	android:divider="@null"
+    android:dividerHeight="5dp"
+    android:stackFromBottom="true"
+    android:scrollbarStyle="outsideOverlay" 
+    android:cacheColorHint="#0000"/>
+    
+</RelativeLayout>
+
+

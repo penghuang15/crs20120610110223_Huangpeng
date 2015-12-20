@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="calc_hint">输入数字与运算符</string>
+    <string name="calc_btn">RUN</string>
+</resources>
